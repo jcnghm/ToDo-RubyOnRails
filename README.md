@@ -1,7 +1,7 @@
 # To-Do Application Using Ruby on Rails
 
-* Built using Ruby version 3.0.2 and Rails 6.1.4.1
+- Ruby version 3.0.2 and Rails 6.1.4.1
 
-* Create multiple lists
+Created by: [Joshua Cunningham](https://www.linkedin.com/in/joshua-cunningham-wa/)
 
-* Use check boxes to indicate task completion
+
